@@ -1,0 +1,86 @@
+[
+    {
+        "id"        : 1, 
+        "imagen"    : "electrica.jpg", 
+        "nombre"    : "Electrónica", 
+        "resumen"   : "<p>Caja fuerte de medidas 100x60x60, fabricada en cuerpo exterior e interior en acero calibre 16, relleno de concreto de alta resistencia, puerta en placa calibre 1/8 con concreto de alta resistencia, una chapa de combinación americana marca Sargent o LaGard y sistema electrónico para 20 cajoneras de calibre 1/8, esclusadas con tiempo de retardo y sistema de alarma para cada cajón.</p>"
+    }, 
+    {   
+        "id"        : 3, 
+        "imagen" : "alta_01.jpg", 
+        "nombre" : "Alta 01", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_01.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 5, 
+        "imagen" : "alta_04.jpg", 
+        "nombre" : "Alta 03", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_03.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 7, 
+        "imagen" : "alta_05.jpg", 
+        "nombre" : "Alta 05", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_06.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 9, 
+        "imagen" : "alta_07.jpg", 
+        "nombre" : "Alta 07", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_08.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 11, 
+        "imagen" : "alta_09.jpg", 
+        "nombre" : "Alta 09", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_10.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 13, 
+        "imagen" : "alta_11.jpg", 
+        "nombre" : "Alta 11", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_12.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 15, 
+        "imagen" : "alta_13.jpg", 
+        "nombre" : "Alta 13", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_14.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 17, 
+        "imagen" : "alta_15.jpg", 
+        "nombre" : "Alta 15", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_16.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 19, 
+        "imagen" : "alta_18.jpg", 
+        "nombre" : "Alta 17", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_17.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 21, 
+        "imagen" : "alta_19.jpg", 
+        "nombre" : "Alta 19", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_20.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 23, 
+        "imagen" : "alta_22.jpg", 
+        "nombre" : "Alta 21", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_21.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 25, 
+        "imagen" : "alta_23.jpg", 
+        "nombre" : "Alta 23", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_24.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    },
+    {   
+        "id"        : 27, 
+        "imagen" : "alta_25.jpg", 
+        "nombre" : "Alta 25", 
+        "resumen" : "<div class='row'><ul><li>CAJA FUERTE DE ALTA SEGURIDAD</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/alta/alta_26.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    }
+]

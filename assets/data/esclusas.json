@@ -1,0 +1,38 @@
+[
+    {
+        "id"        : 1, 
+        "imagen"    : "electrica_th.jpg", 
+        "nombre"    : "Electrónica", 
+        "resumen"   : "<p>Caja fuerte de medidas 100x60x60, fabricada en cuerpo exterior e interior en acero calibre 16, relleno de concreto de alta resistencia, puerta en placa calibre 1/8 con concreto de alta resistencia, una chapa de combinación americana marca Sargent o LaGard y sistema electrónico para 20 cajoneras de calibre 1/8, esclusadas con tiempo de retardo y sistema de alarma para cada cajón.</p>"
+    }, 
+    {
+        "id"        : 2, 
+        "imagen"    : "unipersonal_th.jpg", 
+        "nombre"    : "Esclusa unipersonal", 
+        "resumen"   : "<div class='row'><ul><li>Esclusa unipersonal fabricada en lámina calibre 18 en la cabina, placa de 3/16 en el piso, puertas esclusadas en lámina calibre 14 en la hoja interior y lámina calibre 16 en la hoja exterior con relleno interior de lana mineral cubierto con impermeabilizante apcocil.</li><li>Sistema de esclusamiento mecánico fabricado en solera de 1” x 1/4, liberador de trabe o esclusamiento en redondo de 1/2 y manija para liberar el esclusamiento mecánico.</li><li>Cinturones en la parte interior de la esclusa en calibre 14 (reductores de espacio). Mirilla de 1” para vista al interior de la esclusa.</li><li>Sistema electrónico con capacidad para 99 usuarios, tiempo de retardo programable desde 1 segundo hasta 99 minutos, señal de amago disponible, clave de 4 dígitos, luz interior, interruptor de emergencia para liberar las dos puertas al mismo tiempo. Electroimanes de 900 libras o 420Kg de retención frontal.</li><li>Medidas: 2.04m de Altura x 87cm de Ancho x 70cm de Fondo.</li></ul></div><div class='row'></div>"
+    }, 
+    {
+        "id"        : 4, 
+        "imagen"    : "reja1_th.jpg", 
+        "nombre"    : "Puerta de boveda", 
+        "resumen"   : "<div class='row'><ul><li>Puerta de bóveda resistente a 4 horas contra fuego y ataques físicos, fabricada en placa de 1/4 en la puerta, lámina calibre 10 en el marco con refuerzo en placa de 1/4 en la parte posterior del mismo, lámina calibre 16 en chambranas y aislamiento, refractario interior en la puerta y marco., mecanismo de bloqueo de 8 pasadores en acero cromado de 1” de diámetro, sistema de engrane con cremallera y volante exterior que activa el sistema de pasadores.</li><li>Equipada con una o dos chapas de combinación (mecánica y electronica).</li><li>Medidas de 2m de Altura x 1m de Ancho.</li></ul></div><div class='row'></div>"
+    },
+    {
+        "id"        : 5, 
+        "imagen"    : "blindada_th.jpg", 
+        "nombre"    : "Blindada Ciega", 
+        "resumen"   : "<div class='row'><ul><li>Fabricada con un bastidor en perfil tubular de 11⁄2” x 11⁄2” calibre 10 forrado en placa de Cal. 10 en la hoja de la puerta de ambos lados, blindaje interior tipo persiana, marco en perfil de PTR de 21⁄2” x 21⁄2” calibre 10 y dos bisagras de 1”.</li><li>Equipada con una chapa de seguridad y jaladeras en acero inoxidable.</li><li>Medida estándar de 2.10m de Alto x 1m de Ancho.</li><li>Terminada en laca flejada en cualquier color.</li></ul></div><div class='row'></div>"
+    },
+    {
+        "id"        : 6, 
+        "imagen"    : "mirilla_th.jpg", 
+        "nombre"    : "Blindada con mirilla", 
+        "resumen"   : "<div class='row'><ul><li>Fabricada con un bastidor en perfil tubular de 11⁄2” x 11⁄2” calibre 10 forrado en placa de Cal. 10 en la hoja de la puerta de ambos lados, blindaje interior tipo persiana, marco en perfil de PTR de 21⁄2” x 21⁄2” calibre 10 y dos bisagras de 1”.</li><li>Equipada con una ventanilla de 30cm x 30cm con cristal blindado claro en 38mm de espesor.</li><li>Equipada con una chapa de seguridad y jaladeras en acero inoxidable.</li><li>Medida estándar de 2.14m de Alto x 1m de Ancho.</li><li>Terminada en laca flejada en cualquier color.</li></ul></div><div class='row'></div>"
+    }, 
+    {
+        "id"        : 7, 
+        "imagen"    : "ventanilla.jpg", 
+        "nombre"    : "Ventanilla", 
+        "resumen"   : "<div class='row'><ul><li>Ventanilla blindada fabricada en lamina de acero inoxidable calibre 16 en todo el cuerpo.</li><li>Medidas de 60CM de ancho x 80CM de alto.</li><li>Cristal blindado claro de 38mm de espesor.</li><li>Cuenta con espacios laterales que permiten tener una clara comunicación.</li></ul></div><div class='row'></div>"
+    }
+]

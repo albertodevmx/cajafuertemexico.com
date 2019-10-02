@@ -1,0 +1,134 @@
+[
+    {
+        "id"        : 1, 
+        "imagen"    : "electrica.jpg", 
+        "nombre"    : "Electrónica", 
+        "resumen"   : "<p>Caja fuerte de medidas 100x60x60, fabricada en cuerpo exterior e interior en acero calibre 16, relleno de concreto de alta resistencia, puerta en placa calibre 1/8 con concreto de alta resistencia, una chapa de combinación americana marca Sargent o LaGard y sistema electrónico para 20 cajoneras de calibre 1/8, esclusadas con tiempo de retardo y sistema de alarma para cada cajón.</p>"
+    }, 
+    {
+        "id"        : 2, 
+        "imagen"    : "3030201.jpg", 
+        "nombre"    : "30 x 20 x 20", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 30 ALTO x 30 ANCHO x 20 FONDO</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/3030203.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/3030202.jpg' class='img-fluid border shadow rounded'></div></div>"
+    }, 
+    {
+        "id"        : 3, 
+        "imagen"    : "4030301.jpg", 
+        "nombre"    : "40 x 30 x 30", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 30 ALTO x 40 ANCHO x 30 FONDO</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li><li>ALUMINIO EN LA MINIJA Y CERRADURA</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/4030303.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/4030302.jpg' class='img-fluid border shadow rounded'></div></div>"
+    }, 
+    {
+        "id"        : 4, 
+        "imagen"    : "5030301.jpg", 
+        "nombre"    : "50 x 30 x 30", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 30 ALTO x 50 ANCHO x 30 FONDO</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li><li>ALUMINIO EN LA MINIJA Y CERRADURA</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/5030303.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/5030302.jpg' class='img-fluid border shadow rounded'></div></div>"
+    }, 
+    {
+        "id"        : 5, 
+        "imagen"    : "4540401.jpg", 
+        "nombre"    : "45 x 40 x 40", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 30 ALTO x 40 ANCHO x 30 FONDO</li><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li><li>ALUMINIO EN LA MINIJA Y CERRADURA</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/4030303.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/4030302.jpg' class='img-fluid border shadow rounded'></div></div>"
+    }, 
+    {
+        "id"        : 6, 
+        "imagen"    : "1919241.jpg", 
+        "nombre"    : "19 x 19 x 24", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 19 ALTO x 19 ANCHO x 24 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/1919242.jpg' class='img-fluid border shadow rounded'></div></div>"
+    },
+    {
+        "id"        : 7, 
+        "imagen"    : "604040.jpg", 
+        "nombre"    : "60 x 40 x 40", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 60 ALTO x 40 ANCHO x 40 FONDO ó 70 ALTO x 50 ANCHO x 50 FONDO</li><li>CERRADURA NACIONAL, AMERICANA, DE DOBLE CONTROL O DIGITAL.</li><li>ENTREPAÑO Ó TESORO</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO (EN MODELO SIN RUEDAS)</li><li>RUEDAS (OPCIONALES)</li><li>PASADORES COLOR CROMO</li><li>ALUMINIO EN LA MINIJA Y CERRADURA</li></ul></div><div class='row'></div>"
+    }, 
+    {
+        "id"        : 8, 
+        "imagen"    : "705050.jpg", 
+        "nombre"    : "70 x 50 x 50", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 60 ALTO x 40 ANCHO x 40 FONDO ó 70 ALTO x 50 ANCHO x 50 FONDO</li><li>CERRADURA NACIONAL, AMERICANA, DE DOBLE CONTROL O DIGITAL.</li><li>ENTREPAÑO Ó TESORO</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO (EN MODELO SIN RUEDAS)</li><li>RUEDAS (OPCIONALES)</li><li>PASADORES COLOR CROMO</li><li>ALUMINIO EN LA MINIJA Y CERRADURA</li></ul></div><div class='row'></div>"
+    }, 
+    {
+        "id"        : 9, 
+        "imagen"    : "G1CF_N_T_PE.jpg", 
+        "nombre"    : "G1CF N T PE", 
+        "resumen"   : "<div class='row'><ul><li>CERRADURA NACIONAL, AMERICANA O DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL)</li><li>ENTREPAÑO (SOLO MODELO SIN ROTARI)</li><li>ANGULO CON BARRENOS O BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>PASADORES COLOR CROMO</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/2G1CF_N_T_PE.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'></div></div>"
+    }, 
+    {
+        "id"        : 11, 
+        "imagen"    : "CF_505050_A_CG.jpg", 
+        "nombre"    : "CF 505050 A CG", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 50 ALTO x 50 ANCHO x 50 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 12, 
+        "imagen"    : "CF_705050_12P_D_CH2.jpg", 
+        "nombre"    : "CF 705050 12P D CH2", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 70 ALTO x 50 ANCHO x 50 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 13, 
+        "imagen"    : "JOYERO.jpg", 
+        "nombre"    : "JOYERO", 
+        "resumen"   : "<div class='row'><ul><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 14, 
+        "imagen"    : "CF_AA_CH2_RY.jpg", 
+        "nombre"    : "CF AA CH2 RY", 
+        "resumen"   : "<div class='row'><ul><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 15, 
+        "imagen"    : "CP_363015_2CH2.jpg", 
+        "nombre"    : "CP 363015 2CH2", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 36 ALTO x 30 ANCHO x 15 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div><div class='row'><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/CP_363015_D.jpg' class='img-fluid border shadow rounded'></div><div class='col-6 p-0 m-0 p-md-5'><img src='assets/img/productos/CP_363015_A.jpg' class='img-fluid border shadow rounded'></div></div>"
+    }, 
+    {
+        "id"        : 18, 
+        "imagen"    : "CP_273432_CH2_RY.jpg", 
+        "nombre"    : "CP 273432 CH2 RY", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 27 ALTO x 34 ANCHO x 32 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 21, 
+        "imagen"    : "CP_181812_CH2.jpg", 
+        "nombre"    : "CP 181812 CH2", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 18 ALTO x 18 ANCHO x 12 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 22, 
+        "imagen"    : "CP_152015_CH2_II.jpg", 
+        "nombre"    : "CP 152015 CH2 II", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 15 ALTO x 20 ANCHO x 15 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 23, 
+        "imagen"    : "CP_201515_A.jpg", 
+        "nombre"    : "CP 201515 A", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 20 ALTO x 15 ANCHO x 15 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 24, 
+        "imagen"    : "CP_154015_CH2_II.jpg", 
+        "nombre"    : "CP 154015 CH2 II", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 15 ALTO x 40 ANCHO x 15 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 25, 
+        "imagen"    : "CP_254025_A_II.jpg", 
+        "nombre"    : "CP 254025 A II", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 25 ALTO x 40 ANCHO x 25 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 26, 
+        "imagen"    : "CL_422550_A.jpg", 
+        "nombre"    : "CL 422550 A", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 42 ALTO x 25 ANCHO x 50 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }, 
+    {
+        "id"        : 28, 
+        "imagen"    : "CP_301536_A.jpg", 
+        "nombre"    : "CP 301536 A", 
+        "resumen"   : "<div class='row'><ul><li>MEDIDAS DE 30 ALTO x 15 ANCHO x 36 FONDO</li><li>CERRADURA DE DOBLE CONTROL</li><li>BUZON ROTATIVO (OPCIONAL) Ó RANURA</li><li>BARRENOS EN EL INTERIOR DE LA CAJA PARA ANCLAR AL PISO</li><li>BISAGRA OCULTA (OPCIONAL)</li><li>CUERPO CALIBRE 1/4 Y PUERTA DE 1/2.</li></ul></div>"
+    }
+]
