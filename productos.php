@@ -1,11 +1,30 @@
 <?php include("header.php"); ?>
 
 
+<?php
+	$categoria = isset($_GET['cat']) ? $_GET['cat'] : "productos";
+
+	$data_file = $categoria.".json";
+?>
+
+
+
 <div class="container-fluid animated fadeIn bg-light pb-5">
 	
 		<div class="row" style="background: url('assets/img/banners/cajas.png'); position: bottom; background-size: cover;">
 			<div class="col-12 p-md-3">
-				<h2 class="text-light p-3 p-md-5 text-center">Cajas Fuertes</h2>
+				<h2 class="text-light p-3 p-md-5 text-center">
+
+						<?php
+							switch($categoria) {
+								case "productos": echo "Cajas Fuertes"; break;
+								case "alta": echo "Cajas de alta seguridad"; break;
+								case "esclusas": echo "Equipo Bancario"; break;
+								default: echo "No se encontró nada aquí"; break;
+							}
+						?>
+
+				</h2>
 			</div>
 		</div>
 
@@ -16,12 +35,14 @@
 					<!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id, nostrum aperiam debitis iste molestias voluptatum animi, veniam amet tempora rerum modi facilis error qui doloremque? Laborum praesentium deserunt ab eligendi provident odio sapiente similique omnis ullam in. Culpa, qui?</p> -->
 				</div>
 			</div>
-			
+
+
+
 
 			<div class="row">
 
                 <?php 
-                    $url = "./assets/data/productos.json";
+                    $url = "./assets/data/".$data_file;
                     $json = file_get_contents($url);
                     $data = json_decode($json, TRUE);
 
@@ -33,14 +54,10 @@
 
 					<div class="card text-white bg-primary" style="overflow: hidden;">
 						<div class="card-header">
-							<a href="/productos-item.php?id=<?php echo $item['id']; ?>" class="text-light">
-                                <?php echo $item['id']; ?>
-							</a>
+                            <?php echo $item['nombre']; ?>
 						</div>
 
-						<a href="/productos-item.php?id=<?php echo $item['id']; ?>">
-							<img src="assets/img/productos/<?php echo $item['imagen']; ?>" class="card-img-top">
-						</a>
+						<img src="assets/img/<?php echo $categoria; ?>/th/<?php echo $item['imagen']; ?>" class="card-img-top" data-toggle="modal" data-target="#producto<?php echo $item['id']; ?>">
 					</div>
                 </div>
                 
@@ -51,6 +68,51 @@
 	</div>
 
 </div>
+
+
+
+
+
+<!-- Modales -->
+<?php 
+	
+	foreach($data as $item) {
+?>
+
+
+
+	<div class="modal fade" id="producto<?php echo $item['id']; ?>" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document" aria-hidden="true">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalCenterTitle">
+						<?php echo $item['nombre']; ?>
+					</h5>
+
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<img src="assets/img/<?php echo $categoria; ?>/<?php echo $item['imagen']; ?>" class="w-100 p-3 shadow mb-3">
+
+					<p>
+						<?php echo $item['resumen']; ?>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+<?php } ?>
+
+
+
+
+
+
 
 
 

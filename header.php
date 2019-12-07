@@ -39,15 +39,15 @@
                             </li>
 
                             <li class="nav-item">
-                                    <a class="nav-link"  href="productos.php"><i class="d-md-none fas fa-boxes"></i> Cajas estándar</a>
+                                    <a class="nav-link"  href="productos.php?cat=productos"><i class="d-md-none fas fa-boxes"></i> Cajas estándar</a>
                             </li>
 
                             <li class="nav-item">
-                                    <a class="nav-link"  href="alta.php"><i class="d-md-none fas fa-camera"></i> Cajas de alta seguridad</a>
+                                    <a class="nav-link"  href="productos.php?cat=alta"><i class="d-md-none fas fa-camera"></i> Cajas de alta seguridad</a>
                             </li>
 
                             <li class="nav-item">
-                                    <a class="nav-link"  href="esclusas.php"><i class="d-md-none fas fa-university"></i> Equipo bancario</a>
+                                    <a class="nav-link"  href="productos.php?cat=esclusas"><i class="d-md-none fas fa-university"></i> Equipo bancario</a>
                             </li>
                             
 
